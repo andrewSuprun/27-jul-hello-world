@@ -38,6 +38,7 @@ body {
 
 .section{
   padding: 20px;
+  height: 150px;
 }
 
 .section-2{
@@ -115,8 +116,9 @@ a[href$=".html"]{
 }
 
 .nav a{
-  text-decoration: underline;
+  text-decoration:none;
 }
+
 main > p{
   font-weight: 700;
 }

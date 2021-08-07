@@ -17,4 +17,6 @@ console.log(robot1);
 
 getRobotSchema(robot);
 
+const btn = document.getElementById('out-2');
 
+btn.onclick = () => console.log('show click');
